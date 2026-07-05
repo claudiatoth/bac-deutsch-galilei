@@ -30,7 +30,7 @@ const finalTestData = [
     { type: 'multiple', category: '💡 Deutung', question: 'Warum ist Galilei „kein strahlender Held"?', options: ['er ist arm', 'er ist genial, aber feige und widerruft', 'er ist krank', 'er ist noch sehr jung'], correct: 'er ist genial, aber feige und widerruft', explanation: 'Eine widersprüchliche Figur — der Zuschauer soll kritisch urteilen (V-Effekt).' },
 
     // ✍️ Schreiben (1)
-    { type: 'multiple', category: '✍️ Schreiben', question: 'Welches Element des Bewerbungsbriefs (Subiect III) bringt 2 Punkte?', options: ['die Unterschrift', 'die Betreffzeile', 'das Datum', 'die Anlagen'], correct: 'die Betreffzeile', explanation: 'Betreffzeile (2 P) und Anrede (2 P) sind die punktstärksten Pflicht-Elemente.' }
+    { type: 'multiple', category: '✍️ Schreiben', question: 'Welches Element des Bewerbungsbriefs (Prüfungsteil III) bringt 2 Punkte?', options: ['die Unterschrift', 'die Betreffzeile', 'das Datum', 'die Anlagen'], correct: 'die Betreffzeile', explanation: 'Betreffzeile (2 P) und Anrede (2 P) sind die punktstärksten Pflicht-Elemente.' }
 ];
 
 let currentQuestionIndex = 0;
